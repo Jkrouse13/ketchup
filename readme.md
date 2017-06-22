@@ -4,3 +4,6 @@ Let's say what we want to build an internal database of our customers so we can 
 
 # Where to find the info
  - https://randomuser.me/documentation
+
+# Due
+  Monday, June 26th
