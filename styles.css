@@ -1,0 +1,13 @@
+.master{
+  display: flex;
+  justify-content: space-around;
+}
+@media (max-width: 300px) {
+    header p {
+        text-indent: 0;
+        margin-top: .5em;
+    }
+    .master{
+      flex-direction: column;
+    }
+}
